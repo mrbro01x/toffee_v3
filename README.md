@@ -1,4 +1,4 @@
-# 📺 Toffee Live TV Stream Links
+# 📺 Toffee Live TV
 
 **Official free M3U playlist & JSON feed of live TV channels from [Toffee Live](https://toffeelive.com)**
 
@@ -11,9 +11,6 @@
 ### ✨ About This Repository
 
 This repository provides the streaming links for all live TV channels available on [Toffee Live](https://toffeelive.com/en/live).
-
-I am the owner of the **toffeelive.com** domain and hold the streaming rights for the channels.  
-These links are currently offered **completely free** as part of a marketing initiative to help more people discover and enjoy Toffee.
 
 The playlist is **automatically refreshed every hour** so the signed stream URLs stay valid.
 
