@@ -49,9 +49,10 @@ Open any individual `.m3u8` link from the playlist in NS Player, MX Player, or a
 ### 🔄 Update Schedule
 
 - Links are regenerated **every hour**
-- Signed URLs have a limited lifetime of a whole day — always use the latest version of the playlist
-- The events links have lifetime of 2 hours only due to the lack of a Bangladeshi proxy, please connect with us if you have one
+- Signed URLs have a limited lifetime of an hour — always use the latest version of the playlist
+- The events links have lifetime of 2 hours
 - No action is required on your side; just keep using the raw GitHub links above
+- *Please connect with us if you have a Bangladeshi proxy to provide links that stay valid for 24 hours*
 
 ---
 
